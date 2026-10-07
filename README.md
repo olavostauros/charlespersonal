@@ -152,13 +152,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome!
 
-## 📧 Contact
-
-### Charles Personal Training
-
-- Website: [https://olavostauros.github.io/charlespersonal.fit/](https://olavostauros.github.io/charlespersonal.fit/)
-- WhatsApp: [(27) 99622-4175](https://wa.me/5527996224175)
-
 ---
 
 ⭐ **Star this repo if you found it helpful!**
