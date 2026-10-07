@@ -192,12 +192,10 @@ charlespersonal.fit/
 │   │   └── index.astro      # Main landing page
 │   └── styles/
 │       └── design-system.css # Complete styling system
-├── public/
-│   ├── images/              # Optimized Charles photos
-│   ├── favicon.svg         # Site icon
-│   └── robots.txt          # SEO directives
-└── .vscode/
-    └── tasks.json          # Development tasks
+└── public/
+    ├── images/              # Optimized Charles photos
+    ├── favicon.svg         # Site icon
+    └── robots.txt          # SEO directives
 ```
 
 ### 3.2 Component Development Strategy
