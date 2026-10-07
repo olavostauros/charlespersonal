@@ -147,7 +147,3 @@ Every push to `main` is built and deployed to GitHub Pages by `.github/workflows
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐ **Star this repo if you found it helpful!**
