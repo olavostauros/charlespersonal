@@ -109,11 +109,7 @@ charlespersonal.fit/
 
 ## 🚀 Deployment
 
-The site is automatically deployed to Vercel at: **[charlespersonal.fit](https://charlespersonal.fit)**
-
-### Deploy Your Own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/charlespersonal.fit)
+Every push to `main` is built and deployed to GitHub Pages by `.github/workflows/deploy.yml`: **[https://olavostauros.github.io/charlespersonal.fit/](https://olavostauros.github.io/charlespersonal.fit/)**
 
 ### Manual Deployment
 
@@ -160,8 +156,8 @@ Contributions, issues, and feature requests are welcome!
 
 ### Charles Personal Training
 
-- Website: [charlespersonal.fit](https://charlespersonal.fit)
-- Email: [contact@charlespersonal.fit](mailto:contact@charlespersonal.fit)
+- Website: [https://olavostauros.github.io/charlespersonal.fit/](https://olavostauros.github.io/charlespersonal.fit/)
+- WhatsApp: [(27) 99622-4175](https://wa.me/5527996224175)
 
 ---
 

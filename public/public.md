@@ -101,7 +101,7 @@ public/
 - **Cliente**: Charles Personal Trainer
 - **WhatsApp**: +55 27 99622-4175
 - **Instagram**: @charlestonpersonaltrainer
-- **Site**: https://charlespersonal.fit
+- **Site**: https://olavostauros.github.io/charlespersonal.fit/
 
 ---
 

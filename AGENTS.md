@@ -63,10 +63,6 @@ For absolute URLs (canonical, Open Graph), build them with `new URL(path, new UR
 
 `public/robots.txt` and `public/sitemap.xml` are static and hard-code the live URL; update them if the domain changes.
 
-### Moving to a custom domain later
-
-If `charlespersonal.fit` is pointed at GitHub Pages: set `site: 'https://charlespersonal.fit'`, remove `base` (or set it to `'/'`), add `public/CNAME` containing `charlespersonal.fit`, and update `robots.txt`, `sitemap.xml` and the JSON-LD `url` in `Layout.astro`. Code using `BASE_URL` keeps working unchanged.
-
 ## Conventions
 
 - **User-facing copy:** Brazilian Portuguese.

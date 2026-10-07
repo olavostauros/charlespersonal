@@ -624,4 +624,4 @@ This Charles Personal landing page is **production-ready** and fully implements 
 - ✅ Accessibility compliance for mature users
 - ✅ Performance optimized for Brazilian networks
 
-**Deployment Ready**: The project can be immediately deployed to Vercel for the charlespersonal.fit domain.
+**Deployment Ready**: The project can be deployed to GitHub Pages via GitHub Actions.
