@@ -3,7 +3,7 @@
 [![Astro](https://img.shields.io/badge/Astro-5.9.1-FF5D01?style=flat&logo=astro&logoColor=white)](https://astro.build)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://olavostauros.github.io/charlespersonal.fit/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 > Modern, responsive landing page for Charles Personal Training services built with Astro and pure CSS.
 
@@ -146,4 +146,4 @@ Every push to `main` is built and deployed to GitHub Pages by `.github/workflows
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+© olavostauros and Charles Personal Trainer. **All rights reserved.** This repository is public for hosting only; no permission is granted to copy or reuse the code, and Charles's name, photos, credentials, testimonials and contact details may not be used by anyone else. See [LICENSE](LICENSE).

@@ -1,0 +1,46 @@
+Copyright (c) 2025-2026 olavostauros and Charles Personal Trainer. All rights reserved.
+
+This repository is published publicly for transparency and hosting purposes
+only. Its visibility does not grant any license or permission to use it.
+
+1. SOURCE CODE
+
+   The source code (Astro components, TypeScript, CSS, configuration and build
+   files) is the property of olavostauros. No permission is granted to copy,
+   modify, distribute, sublicense, or use it, in whole or in part, without
+   prior written permission from the copyright holder.
+
+2. CLIENT IDENTITY AND CONTENT
+
+   The following belong exclusively to Charles ("Charles Personal Trainer")
+   and are NOT licensed for any use by anyone else:
+
+   - the names "Charles", "Charles Personal" and "Charles Personal Trainer",
+     and any logo, brand or visual identity associated with them;
+   - all photographs, images and likenesses of Charles;
+   - professional credentials (including CREF registration), biography,
+     and descriptions of his services and training methods;
+   - client testimonials, names and photographs of clients;
+   - contact details, including phone/WhatsApp numbers, social media
+     profiles and app links;
+   - all written copy and marketing text on the website.
+
+   You may not reproduce, publish, adapt, or use any of this material, and you
+   may not use Charles's name, likeness, credentials or contact details to
+   represent yourself or any other person, business or website, or in any way
+   that suggests endorsement by or affiliation with Charles.
+
+3. PERMITTED USE
+
+   You may view this repository and the published website. Forking within
+   GitHub is permitted only to the extent required by the GitHub Terms of
+   Service; no other rights are granted.
+
+4. NO WARRANTY
+
+   THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS MATERIAL.
+
+For permission requests, contact the repository owner via
+https://github.com/olavostauros.
