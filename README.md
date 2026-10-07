@@ -11,10 +11,6 @@
 
 🌐 **[Visit the website](https://olavostauros.github.io/charlespersonal.fit/)**
 
-## 📸 Preview
-
-![Website Preview](./public/images/mfit-app-preview.png)
-
 ## 🚀 Tech Stack
 
 - **Framework**: [Astro 5.9.1](https://astro.build) (Static Site Generation)
