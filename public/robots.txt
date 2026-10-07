@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://charlespersonal.fit/sitemap.xml
+Sitemap: https://olavostauros.github.io/charlespersonal.fit/sitemap.xml
 
 # Página de agradecimento - não indexar
 Disallow: /obrigado

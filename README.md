@@ -2,14 +2,14 @@
 
 [![Astro](https://img.shields.io/badge/Astro-5.9.1-FF5D01?style=flat&logo=astro&logoColor=white)](https://astro.build)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://charlespersonal.fit)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://olavostauros.github.io/charlespersonal.fit/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Modern, responsive landing page for Charles Personal Training services built with Astro and pure CSS.
 
 ## ✨ Live Demo
 
-🌐 **[Visit the website](https://charlespersonal.fit)**
+🌐 **[Visit the website](https://olavostauros.github.io/charlespersonal.fit/)**
 
 ## 📸 Preview
 
@@ -20,7 +20,7 @@
 - **Framework**: [Astro 5.9.1](https://astro.build) (Static Site Generation)
 - **Language**: TypeScript 5.6.3
 - **Styling**: Pure CSS with CSS Custom Properties
-- **Deployment**: [Vercel](https://vercel.com)
+- **Deployment**: [GitHub Pages](https://pages.github.com) via GitHub Actions
 - **Performance**: 100% static, zero JavaScript on the client
 
 ## 🏗️ Project Structure
